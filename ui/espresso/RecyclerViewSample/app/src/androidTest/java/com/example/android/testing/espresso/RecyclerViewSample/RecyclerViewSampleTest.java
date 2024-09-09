@@ -50,10 +50,6 @@ public class RecyclerViewSampleTest {
 
     private static final int ITEM_BELOW_THE_FOLD = 40;
 
-    /**
-     * Use {@link ActivityScenario} to create and launch the activity under test. This is a
-     * replacement for {@link androidx.test.rule.ActivityTestRule}.
-     */
     @Rule
     public ActivityScenarioRule<MainActivity> activityScenarioRule =
         new ActivityScenarioRule<MainActivity>(MainActivity.class);

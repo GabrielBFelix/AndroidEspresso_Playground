@@ -1,2 +1,2 @@
 # AndroidEspresso_Playground
-Using google's testing-samples Espresso repository for training purposes
+Using google's [testing-samples Espresso repository](https://github.com/android/testing-samples) for learning / training purposes
